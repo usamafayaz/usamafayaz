@@ -1,6 +1,6 @@
 <h3 align="center">React Native and Python Developer</h3>
 
-<p>I am a fresh graduate with hands-on experience in React Native and Python development. I am passionate about utilizing my skills to create impactful projects and am always eager to learn and explore new technologies. I thrive in collaborative environments and am committed to continuous improvement and professional growth. Feel free to reach out to discuss potential opportunities or collaborations!</p>
+<p>I am a fresh graduate with hands-on experience in React Native and Python development. I am passionate about using my skills to create meaningful projects and am always eager to learn and explore new technologies. I thrive in collaborative environments and am committed to continuous improvement and professional growth. Feel free to reach out to discuss potential opportunities or collaborations!</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=usamafayaz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
