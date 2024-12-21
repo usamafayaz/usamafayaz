@@ -1,6 +1,10 @@
 <h3 align="center">Full Stack Developer | React Native | React | Next.js | Python</h3>
 
-<p>I am a fresh graduate with hands-on experience in React Native, React, Next.js, and Python. I’m passionate about using my skills to develop dynamic web and mobile applications, always eager to learn new technologies and contribute to meaningful projects. I thrive in collaborative environments and am committed to continuous professional growth. Feel free to reach out to discuss potential opportunities or collaborations!</p>
+<p>I am a Computer Science graduate, and over the past two years, I’ve been working with React Native, React, Next.js, and other
+technologies to develop real-world software and AI-driven applications. Experienced in JavaScript, TypeScript and Python, I focus on
+building practical, user-focused solutions. My work reflects a dedication to continuous learning, problem-solving, and creating impactful
+technology.</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=usamafayaz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
